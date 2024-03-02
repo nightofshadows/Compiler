@@ -9,3 +9,6 @@ This Compiler is based on substitution model of evaluation. It requires Racket f
 The main features are:
 1. Doing Complex Operations with Numbers.
 2. Performing basic editting tasks with Strings.
+
+This Compiler was made using the code from University of California Berkeley, It provided the functionality for simple numerical operations.   
+https://people.eecs.berkeley.edu/~bh/61a-pages/Lectures/2.1/calc.scm
