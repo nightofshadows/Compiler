@@ -1,5 +1,6 @@
 # Compiler
-Basic Compiler for Calculation and Text Editting
+Basic Compiler for Calculation and Text Editting...
+
 It uses Scheme(STk) Language (Dialect of Lisp) to operate. The reason behind this is because of scheme's ability to use recursive functions easily.
 It helped to remove any inconsistencies and come up with an elegant solution.
 
